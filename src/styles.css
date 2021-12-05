@@ -1,0 +1,18 @@
+.App {
+  font-family: monospace;
+  text-align: center;
+  background-color: #e0ffff;
+  max-width: "600px";
+  margin: auto;
+}
+p {
+  font-size: small;
+}
+/* style={{
+  cursor: "pointer",
+  background: "#E5E7EB",
+  borderRadius: "0.5rem",
+  padding: "0.5rem  1rem",
+  border: "1px solid black",
+  margin: "1rem 0.3rem"
+}} */
